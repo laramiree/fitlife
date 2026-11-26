@@ -1,0 +1,6 @@
+{
+  "name": "Broken Map",
+  "cities": [
+    { "name": "City A", "x": 20, "y": 70 }
+  ],
+  "roads": []

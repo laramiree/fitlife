@@ -1,0 +1,8 @@
+{
+  "name": "No Path Test Map",
+  "cities": [
+    { "name": "City A", "x": 20, "y": 70 },
+    { "name": "City B", "x": 80, "y": 30 }
+  ],
+  "roads": []
+}

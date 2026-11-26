@@ -1,0 +1,9 @@
+{
+  "name": "Invalid Map",
+  "cities": [
+    { "name": "City A", "x": 20, "y": 70 }
+  ],
+  "roads": [
+    { "from": "City A", "to": "City Z", "km": 10 }
+  ]
+}

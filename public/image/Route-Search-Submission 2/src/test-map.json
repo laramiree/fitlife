@@ -1,0 +1,14 @@
+{
+  "name": "Test Map",
+  "unit": "km",
+  "cities": [
+    { "name": "City A", "x": 10, "y": 90 },
+    { "name": "City B", "x": 30, "y": 60 },
+    { "name": "City C", "x": 50, "y": 30 }
+  ],
+  "roads": [
+    { "from": "City A", "to": "City B", "km": 20 },
+    { "from": "City B", "to": "City C", "km": 25 },
+    { "from": "City A", "to": "City C", "km": 60 }
+  ]
+}
